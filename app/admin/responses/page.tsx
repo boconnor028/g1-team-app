@@ -48,6 +48,8 @@ type TournamentResponse = {
 
 const ADMIN_EMAILS = [
   "brendanm.oc@gmail.com",
+  "sdelacruz@g1footballacademy.com",
+  "moconnor@g1footballacademy.com",
   // add more admin emails here if needed
 ];
 

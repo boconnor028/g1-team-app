@@ -29,7 +29,7 @@ type AdminEvent = {
   location: string;
 };
 
-const ADMIN_EMAILS = ["brendanm.oc@gmail.com"];
+const ADMIN_EMAILS = ["brendanm.oc@gmail.com", "sdelacruz@g1footballacademy.com","moconnor@g1footballacademy.com"];
 
 export default function AdminPage() {
   const [user, setUser] = useState<User | null>(null);
